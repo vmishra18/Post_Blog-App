@@ -3,9 +3,14 @@ Built a "blog post app" with React, Redux and context APIs. With the app, you ca
 
 Following are the key functional aspects:
 
-• Show the list of blog post.
-• View details of the blog post.
-• Add a new blog post.
-• Edit the blog post.
-• Delete the blog post.
-• Like the blog post.
+• Show the list of blog post
+
+• View details of the blog post
+
+• Add a new blog post
+
+• Edit the blog post
+
+• Delete the blog post
+
+• Like the blog post
